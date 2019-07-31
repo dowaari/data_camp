@@ -74,6 +74,7 @@
 ```
 
 3. 공공데이터 활용사례 참고사이트
+    - http://www.startupidea.kr/award/
     - https://www.data.go.kr/useCase/exam/index.do
 
 4. 참고
