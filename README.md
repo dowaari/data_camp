@@ -71,6 +71,11 @@
             * 참고예시가 많다. Dacon대회, kaggle대회, 보고서 등
             * 이미 유사서비스들이 있다.(직방,부동산지인) 차별점은? 정확도 비교 어떻게?
             * 참고: 2017년 빅데이터아카데미 우수사례집, 기계학습 방법을 활용한 신도시 아파트 가격변동 요인 분석
+            * 참고 url:
+                https://dacon.io/cpt4 
+                https://bit.ly/2UuQvtU 
+                https://www.kaggle.com/c/house-prices-advanced-regression-techniques/ 
+            
             
      (5) 울산지역 살기좋은 동네찾기 서비스
         - 목적: 
