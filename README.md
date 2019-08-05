@@ -128,7 +128,7 @@
     - 웹시각화: 1명 8/9~
 
 6. 소스코드 및 데이터 공유
-    - 주소: 
+    - 주소: https://drive.google.com/drive/folders/1fAkaPiACf0q7_8i5mRTPP9xd0m0OsNt9?usp=sharing
     - 팀원별 폴더생성, 각자 생성한 코드, 데이터를 업로드한다.
 
 7. 프로젝트 계획 상세
