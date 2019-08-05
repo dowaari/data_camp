@@ -7,7 +7,7 @@
     - 강의내용중 몰랐던 부분이나 잘이해되지 않는 부분 정리해서 올릴 것
 
 2. **금융관련 빅데이터 분석 project 아이디어**
-    - [별도정리](idea_thinking.md)
+    - [idea thinking 별도정리](idea_thinking.md)
 
 3. 공공데이터 활용사례 참고사이트
     - http://www.startupidea.kr/award/
