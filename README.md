@@ -23,11 +23,11 @@
     - 머신러닝, 백테스팅: 1명 8/12~           
     - 웹시각화: 1명 8/9~
 
-6. 소스코드 및 데이터 공유
+4. 소스코드 및 데이터 공유
     - 주소: 단톡방 공개
     - 팀원별 폴더생성, 각자 생성한 코드, 데이터를 업로드한다.
 
-7. 프로젝트 계획 상세 (8/5)
+5. 프로젝트 계획 상세 (8/5)
     - 주제: 빅데이터분석을 활용한 코스피지수 예측 알림서비스
     - 목적:
         * 저금리시대에 재테크는 필수, 투자결정에 도움을 주는 정보제공서비스
@@ -52,6 +52,16 @@
             - https://www.nature.com/articles/srep01684
             - 그 외 구글검색을 통한 다수의 논문들
 
-
+6. 모델 흐름도 (그림)
+    - 데이터 수집
+    - 데이터 전처리
+    - EDA: feature간 상관관계, 다중회귀분석, 시계열분석(자기상관) 등 분석
+    - feature engneering: 파생변수, feature 중요도 확인 -> feature 선정
+    - 모델학습을 위한 dataset 구성: input feature, target
+    - train / (validation) / test set 만들기
+    - base model
+    - Denoising + CNN Encoder + LSTM, Attention network
+     
+    
 
 
