@@ -1,3 +1,6 @@
+뉴스,트렌드,소셜미디어 관련
+
 https://junpyopark.github.io/social_stock/
 https://www.slideshare.net/handol/opnion-mining-social-mining
 https://www.nature.com/articles/srep01684
+https://medium.com/@whj2013123218/twitter-sentiment-analysis-by-python-1-a06b05d13465
