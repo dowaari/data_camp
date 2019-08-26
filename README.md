@@ -101,6 +101,18 @@
     - train / (validation) / test set 만들기
     - base model
     - Denoising + CNN Encoder + LSTM, Attention network
+    
+ 9. 프로젝트 결과발표 8/23일
+    - [발표자료 PDF](코스피지수예측_190822_수정.pdf)
+    - 추가연구계획 (8/26~)
+        - 거시경제지표 yoy 변화율 vs 수익률 관점에서 상관관계 확인 (선행성 확인방법은?)
+        - 보조지표 vs 수익률 관점에서 상관관계 확인
+        - 뉴스감성분석, 증권감성사전 연구 추가진행, 오픈소스 더 찾아보기
+        - Wavlet+PCA 적용, DARNN 모델사용해보기
+        - 웹서비스 연계방안 구상
+        - 논문 등 볼만했던 참고자료들 요약정리해서 올리기
+        
+ 
      
     
 
